@@ -1,4 +1,9 @@
-esta es es una prueba 
-de josé Salazar
-exitos
-y realizaciones
+esta una primera clase de git 
+
+para ver 
+
+los cambios
+
+que suceden 
+
+y su historia
